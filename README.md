@@ -21,7 +21,6 @@ Here are a few projects I've been working on
 ### [TalentHive](https://github.com/miketorreno/TalentHive)
 - Description: AI-powered Telegram bot that allows recruiters to post jobs and job seekers to browse & apply for jobs.
 - Tech Stack: Python, python-telegram-bot, PostgreSQL, Redis, Hugging Face
-Here are a few projects I've been working on
 
 ### [SSHP](https://github.com/miketorreno/sshp)
 - Description: Electronic health record and hospital information system  web app.
