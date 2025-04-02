@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Mike
 
 ### Enthusiastic and innovative engineer
+&nbsp;
 
 💼 &nbsp;Current Role: Fullstack Developer 
 
