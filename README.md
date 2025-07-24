@@ -3,11 +3,11 @@
 ### Enthusiastic and Innovative Engineer
 &nbsp;
 
-💼 &nbsp;Current Role: &nbsp;FullStack Developer 
+💼 &nbsp;Current Role: &nbsp;Full-Stack Developer 
 
-🛠️ &nbsp;Tech Stack: &nbsp;TypeScript/JavaScript, Python, React, Next.js, Node, Django, PostgreSQL, MongoDB, Redis, CI/CD, Git, Docker, AI Agents 
+🛠️ &nbsp;Tech Stack: &nbsp;TypeScript/JavaScript, Python, React, Next.js, Node.js, Django, PostgreSQL, MongoDB, Redis, CI/CD, Git, Docker, AI Agents 
 
-🔭 &nbsp;Currently Working on an AI-powered Job Board 
+🔭 &nbsp;Currently Working on an AI-Powered Job Board 
 
 🌱 &nbsp;Learning AI and ML 
 
@@ -20,12 +20,12 @@
 Here are a few projects I've been working on
 
 ### [TalentHive](https://github.com/miketorreno/TalentHive)
-- **Description**: &nbsp;AI-powered Telegram bot that allows recruiters to post jobs and job seekers to browse & apply for jobs.
+- **Description**: &nbsp;AI-Powered Telegram bot that allows recruiters to post jobs and job seekers to browse & apply for jobs.
 - **Tech Stack**: &nbsp;Python, python-telegram-bot, PostgreSQL, Redis, Hugging Face
 
 ### [SSHP](https://github.com/miketorreno/sshp)
-- **Description**: &nbsp;Electronic health record and hospital information system  web app.
-- **Tech Stack**: &nbsp;MERN stack - React, Node, Express, MongoDB
+- **Description**: &nbsp;Small-scale Healthcare Platform.
+- **Tech Stack**: &nbsp;Next.js, Prisma, PostgreSQL, GitHub Actions
 
 ### [Handyman](https://github.com/miketorreno/handyman-api)
 - **Description**: &nbsp;An API for finding and ranking the best handyman in town.
