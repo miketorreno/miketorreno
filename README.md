@@ -5,7 +5,7 @@
 
 💼 &nbsp;Current Role: &nbsp;Full-Stack Developer 
 
-🛠️ &nbsp;Tech Stack: &nbsp;TypeScript/JavaScript, Python, React, Next.js, Node.js, Django, PostgreSQL, MongoDB, Redis, CI/CD, Git, Docker, AI Agents 
+🛠️ &nbsp;Tech Stack: &nbsp;TypeScript/JavaScript, Python, React, Next.js, Node.js, Django, PostgreSQL, MongoDB, Redis, CI/CD, Git & GitHub, Docker, AI Agents 
 
 🔭 &nbsp;Currently Working on an AI-Powered Job Board 
 
