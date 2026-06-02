@@ -5,9 +5,9 @@
 
 💼 &nbsp;Current Role: &nbsp;Full-Stack Developer 
 
-🛠️ &nbsp;Tech Stack: &nbsp;TypeScript/JavaScript, Python, React, Next.js, Node.js, Django, PostgreSQL, MongoDB, Redis, CI/CD, Git & GitHub, Docker, AI Agents 
+🛠️ &nbsp;Tech Stack: &nbsp;TypeScript/JavaScript (React, Next.js, Node.js), Python, Django, Databases (PostgreSQL, MySQL, MongoDB, Redis), CI/CD, Git, Docker, Terraform, Ansible, AI Agents 
 
-🔭 &nbsp;Currently Working on an AI-Powered Job Board 
+🔭 &nbsp;Currently Working on a Habit Tracker
 
 🌱 &nbsp;Learning AI and ML 
 
@@ -18,6 +18,10 @@
 ## Projects
 
 Here are a few projects I've been working on
+
+### [TalentHive](https://github.com/miketorreno/rlrts)
+- **Description**: &nbsp;A productivity tool for habit tracking, task timing, and progress visualization.
+- **Tech Stack**: &nbsp;Next.js, Convex, Github Actions
 
 ### [TalentHive](https://github.com/miketorreno/TalentHive)
 - **Description**: &nbsp;AI-Powered Telegram bot that allows recruiters to post jobs and job seekers to browse & apply for jobs.
