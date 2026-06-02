@@ -19,7 +19,7 @@
 
 Here are a few projects I've been working on
 
-### [TalentHive](https://github.com/miketorreno/rlrts)
+### [RLRTS](https://github.com/miketorreno/rlrts)
 - **Description**: &nbsp;A productivity tool for habit tracking, task timing, and progress visualization.
 - **Tech Stack**: &nbsp;Next.js, Convex, Github Actions
 
