@@ -21,7 +21,7 @@ DevOps Engineer with 5 years of experience as a Full-Stack Developer designing a
 - **Description**: &nbsp;Offline-first electronic health records and hospital information system for the least resourced environments.
 - **Tech Stack**: &nbsp;TypeScript, Next.js, Prisma, NestJS, PostgreSQL, GitHub Actions, Docker
 
-### [AI-Powered Telegram Job Platform](https://github.com/miketorreno/talent-hive)
+### [AI-Powered Telegram Job Board](https://github.com/miketorreno/talent-hive)
 - **Description**: &nbsp;AI-Powered Telegram bot that allows recruiters to post jobs and job seekers to browse & apply for jobs.
 - **Tech Stack**: &nbsp;Python, python-telegram-bot, PostgreSQL, Redis, Hugging Face, Docker
 
