@@ -2,7 +2,9 @@
 
 ### DevOps Engineer
 
-DevOps Engineer with practical experience in Linux, infrastructure-as-code (Terraform, Ansible), container platforms (Docker, ECS, Kubernetes, EKS), CI/CD automation (GitHub Actions, GitLab CI), observability stack (Prometheus, Grafana, Loki, Tempo, OpenTelemetry), and cloud ecosystems (AWS, DigitalOcean, Vercel) with strong scripting in Python and Bash.
+I'm a DevOps Engineer with 5 years of professional software engineering experience, specializing in Linux, cloud platforms, infrastructure as code, containerization, CI/CD, monitoring, observability, and container orchestration. Experienced in designing repeatable deployment workflows, containerized workloads, infrastructure automation, and the cloud. 
+
+Proficient in Linux, Networking, Docker, Nginx, GitHub Actions, AWS, Terraform, Ansible, Observability stack (Prometheus, Grafana, Loki, Tempo, OpenTelemetry) backed by Python and Bash scripting.
 
 &nbsp;
 
@@ -13,35 +15,25 @@ DevOps Engineer with practical experience in Linux, infrastructure-as-code (Terr
 - **Description**: &nbsp;Production-ready DevOps and Cloud project templates designed to bootstrap real-world projects with best practices.
 - **Tech Stack**: &nbsp;AWS, GitHub Actions, Terraform, Ansible, Docker, Kubernetes, Helm, Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Python, Bash
 
-### [Cloud Platform](https://github.com/miketorreno/cloud-platform)
+### [Electronic Health Record (EHR)](https://github.com/miketorreno/sshp)
 
-- **Description**: &nbsp;Reusable cloud platform demonstrating modern platform engineering practices.
-- **Highlights**: &nbsp;Infrastructure as Code with Terraform, Kubernetes platform, Helm deployments, GitHub Actions CI/CD, Docker containerization, AWS infrastructure, Prometheus & Grafana monitoring, Loki centralized logging, OpenTelemetry instrumentation, Security best practices, Operational documentation, Production runbooks
-
-### [Offline-First Electronic Health Record (EHR)](https://github.com/miketorreno/offline-first-ehr)
-
-- **Description**: &nbsp;Offline-first electronic health records and hospital information system for the least resourced environments.
-- **Tech Stack**: &nbsp;TypeScript, Next.js, Prisma, NestJS, PostgreSQL, GitHub Actions, Docker
+- **Description**: &nbsp;Small scale electronic health record and hospital information system.
+- **Tech Stack**: &nbsp;TypeScript, Next.js, PostgreSQL, Prisma, GitHub Actions, Docker
 
 ### [AI-Powered Telegram Job Board](https://github.com/miketorreno/talent-hive)
 
-- **Description**: &nbsp;AI-Powered Telegram bot that allows recruiters to post jobs and job seekers to browse & apply for jobs.
-- **Tech Stack**: &nbsp;Python, python-telegram-bot, PostgreSQL, Redis, Hugging Face, Docker
-
-### [Donation Platform](https://github.com/miketorreno/donation-platform)
-
-- **Description**: &nbsp;Community fundraising platform: anyone can browse campaigns, help causes you believe in, and launch campaigns of their own with live progress tracking.
-- **Tech Stack**: &nbsp;Python, Django, PostgreSQL, Redis, Docker
-
-### [Habit Tracker](https://github.com/miketorreno/streaks)
-
-- **Description**: &nbsp;Productivity tool for habit tracking, task timing, and progress visualization.
-- **Tech Stack**: &nbsp;Next.js, Clerk, Convex
+- **Description**: &nbsp;AI-Powered Telegram based recruitment platform for connecting employers with job seekers.
+- **Tech Stack**: &nbsp;Python, python-telegram-bot, PostgreSQL, Redis, Docker
 
 ### [Telegram Support Bot](https://github.com/miketorreno/telegram-support-bot)
 
 - **Description**: &nbsp;Support and ticketing system for Telegram. Lets users create tickets which will be sent to a staff group and can be answered by a reply.
 - **Tech Stack**: &nbsp;TypeScript, grammY, Node.js, SQLite, Docker
+
+### [Habit Tracker](https://github.com/miketorreno/streaks)
+
+- **Description**: &nbsp;Productivity tool for habit tracking, task timing, and progress visualization.
+- **Tech Stack**: &nbsp;Next.js, Clerk, Convex
 
 ### [Handyman API](https://github.com/miketorreno/handyman-api)
 
